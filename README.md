@@ -9,4 +9,6 @@ For NNs is required the deep learning toolbox, add the path to its folder and ru
 
 Reaction diffustion data file is too large and it must be reprocessed by running the .m script
 
+The SINDy colab file output are just the coefficient for the 2nd order library. A script for the visualization must be added.
+
 ENJOY!
